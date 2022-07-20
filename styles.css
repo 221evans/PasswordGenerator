@@ -1,0 +1,41 @@
+body {
+  margin: 115px 144px 355px 52px;
+  text-align: center;
+  background-color: #1F2937;
+  
+
+}
+
+h1 {
+  font-weight: 800px;
+  color: white;
+  
+}
+h2 {
+  font-weight: 800px;
+  color: #4ADF86;
+}
+h3 {
+  color: grey
+}
+
+#generate-password {
+  width: 150px;
+  color: white;
+  background-color: #10B981;
+  border-radius: 2px;
+  border: 0px;
+}
+
+.passwords {
+display: inline-flex;
+border: 6px solid #273549;
+background-color: #273549 ;
+width: 211px;
+height: 39px;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 20px;
+color: #55F991;
+}
+
